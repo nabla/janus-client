@@ -1,0 +1,22 @@
+{
+  "name": "@nabla/janus-client",
+  "version": "1.0.0",
+  "description": "Javascript client for Janus-Gateway server",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabla/janus-client.git"
+  },
+  "keywords": [
+    "janus"
+  ],
+  "author": "pierre@nabla.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabla/janus-client/issues"
+  },
+  "homepage": "https://github.com/nabla/janus-client#readme",
+  "dependencies": {
+    "webrtc-adapter": "^8.0.0"
+  }
+}
